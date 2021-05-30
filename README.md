@@ -1,5 +1,5 @@
 # DoubanMovieRatePredict
-
+用Scrapy框架爬取豆瓣电影，构建豆瓣电影预测评分模型
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
